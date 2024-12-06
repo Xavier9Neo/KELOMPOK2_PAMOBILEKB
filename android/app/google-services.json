@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "521941804665",
+    "project_id": "animaledu-acc",
+    "storage_bucket": "animaledu-acc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521941804665:android:05b61061584061d1ad96a8",
+        "android_client_info": {
+          "package_name": "com.animal.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCccklmGnU49p_Yq4twOWFJzGD8UWWyfNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
